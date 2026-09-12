@@ -1,4 +1,4 @@
-NOVARA WEB STUDIO
+ARC WEB STUDIO
 ================
 
 Files:
@@ -9,7 +9,7 @@ Files:
 Open index.html to preview locally, or upload the folder to Netlify/Vercel/GitHub Pages.
 
 Before publishing:
-1. Replace hello@novarawebstudio.com with your real email.
+1. Replace hello@arcwebstudio.com with your real email.
 2. Add your real WhatsApp number.
 3. Replace demo/project links if needed.
 4. Add real testimonials only after you receive them.
